@@ -3,15 +3,25 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "lint": "next lint",
     "start": "next start"
   },
   "dependencies": {
-    "date-fns": "^2.11.1",
-    "gray-matter": "^4.0.2",
+    "classnames": "2.3.1",
+    "lowdb": "3.0.0",
     "next": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "remark": "^14.0.1",
-    "remark-html": "^15.0.0"
+    "react-hook-form": "7.20.5",
+    "react-input-mask": "2.0.4",
+    "swr": "1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "16.11.11",
+    "@types/react": "17.0.37",
+    "eslint": "<8.0.0",
+    "eslint-config-next": "12.0.4",
+    "eslint-config-prettier": "8.3.0",
+    "typescript": "4.5.2"
   }
 }

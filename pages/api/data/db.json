@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "firstName": "Andrei",
+      "lastName": "Ponomarev",
+      "email": "bukinator.b@gmail.com",
+      "country": "Russia",
+      "agreement": true,
+      "password": "stardewWalley",
+      "phone": "+1(123)456-7890",
+      "id": "b6fd1a4a-d802-4279-a670-e3b2c2d87ae5"
+    }
+  ]
+}
